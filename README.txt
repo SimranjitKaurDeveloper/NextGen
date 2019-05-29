@@ -24,7 +24,10 @@ Task completed:
 	a. Created a content type 'Home Banner'
 	b. Created a view with name 'Slider' and used view slideshow for home banner
 	c. Used View in Paragraph by View Reference field to show slider on homepage
-4. Created a bundle paragraph (paragraphtype > servicecarousel > slides) for carousel slider and add it on homepage. Used slick paragraph module to show services in carousel.
+4. Service Slider Steps followed: 
+	a. Created a bundle paragraph (paragraphtype > servicecarousel > slides) for carousel slider.
+	b. Aadd it on homepage. 
+	c. Used slick paragraph module to show services in carousel.
 
 
 
